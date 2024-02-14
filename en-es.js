@@ -4,7 +4,8 @@
 
     // Define only English and Spanish
     var lang_array_english = {
-        "en": "English"
+        "en": "English",
+        "es": "Spanish"
     };
     var lang_array_native = {
         "en": "English",
